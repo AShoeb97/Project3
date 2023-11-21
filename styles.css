@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f4f4f4;
+    background-image: url('images/DALL·E\ 2023-11-20\ 20.50.51\ -\ Design\ concept\ for\ the\ home\ screen\ of\ a\ cocktail\ recipe\ app.\ The\ design\ features\ a\ clean\,\ modern\ interface\ with\ a\ prominent\ search\ bar\ at\ the\ top.\ Bel\ 2.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+section {
+    text-align: center;
+}
+
+button {
+    background-color: #333;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #555;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* Add more styles as needed */
